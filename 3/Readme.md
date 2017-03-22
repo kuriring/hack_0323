@@ -1,0 +1,28 @@
+# 3. 한줄씩, 소문자는 대문자로 대문자는 특수문자 및 공백문자열 모두제거 숫자는 그대로
+
+- translate(바뀐 후 문자,"바꾸고싶은문자들")
+- swapcase(): 대문자는 소문자 & 소문자는 대문자로!
+- Result
+
+```
+APRIIEDlCvdBm8YHLXQukNkiHtboq
+eLHgkkZFnkL5KuDREUYGZbwHr6XXDJ
+q0Ge9TVEkzBWdNPC1byIXN6tNLLGk
+8QCCiGOofhr2k0NAuYXQi8jPjOqHGf
+OLoMuAZKLdq1UVX7LP8M9WQaULOmGpw
+saEgGNIWiCdW6UuwYTv7EhWIOSEs6cM
+3Jq7KuVbaRJPpUdZUeHyrLCFGThMUti
+HgVgxUQEgBLe1zNwITIMxtCNghv0YO
+AemWYWUvR8VFdVbcWQWJfvQqBL0PGIpR
+covNYjCBJm4MIm8MCSOiVGQuqiL
+uZExGBpqD3bvKEcCsWDJKoFvEsEX
+nw1ohvbfSUqDECpToxOJpdaBXmUHiGIQ
+8nRBXkAQoZt0dHBcCowvUVazLVM77YZs
+PWD7QJZNykC8Q4Wl9mcsZAG7HHj
+RVDIPBdWe8JBQ9oaEyivNtZRFDCeaGL
+RDkYYGODkaOHjuPoN6RqOVKpOEjZvpoaN
+UGtoraVtBMSTXlJIBuGHPZMLDQ0XkQIAE
+nSqdarinO4nxxcVTsnWvSUiAQODSEmVUo
+2RBxGwMLIMKzOxUSvotJi6nWZl0NIVrZ
+xXEbUXuAstOHXG7zs9dMvsoAOWHbDDFUJ
+```
